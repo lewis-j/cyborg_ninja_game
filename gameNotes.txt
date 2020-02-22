@@ -1,0 +1,5 @@
+add fall animation for enemy stop update loop on player
+add jetpack ui bar and functionality
+add parameters for shot distance and shot rate from enemy
+
+
